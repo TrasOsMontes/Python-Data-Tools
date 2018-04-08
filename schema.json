@@ -1,0 +1,18 @@
+{
+    "addresses" : {
+        "street_number": "VARCHAR(11)", 
+        "street": "VARCHAR(100)", 
+        "city": "VARCHAR(100)", 
+        "state": "VARCHAR(50)",
+        "unit_number": "VARCHAR(25)", 
+        "place_id": "BIGINT(20)", 
+        "osm_id": "BIGINT(20)", 
+        "country_code": "VARCHAR(15)", 
+        "county" : "VARCHAR(100)", 
+        "postcode": "INTEGER", 
+        "longitude": "DOUBLE", 
+        "latitude": "DOUBLE", 
+        "address": "VARCHAR(150)", 
+        "slug": "VARCHAR(150)"
+        },
+}
